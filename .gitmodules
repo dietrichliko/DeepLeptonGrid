@@ -1,14 +1,18 @@
 [submodule "CMSSW_10_2_18/src/DeepLepton"]
 	path = CMSSW_10_2_18/src/DeepLepton
-	url = git://github.com/HephyAnalysisSW/DeepLepton
+	url = git@github.com:HephyAnalysisSW/DeepLepton
 	branch = grid
+        update = rebase
 [submodule "CMSSW_10_2_18/src/RootTools"]
 	path = CMSSW_10_2_18/src/RootTools
-	url = git://github.com/HephyAnalysisSW/RootTools
+	url = git@github.com:HephyAnalysisSW/RootTools
 	branch = grid
+        update = rebase
 [submodule "CMSSW_10_2_18/src/Analysis"]
 	path = CMSSW_10_2_18/src/Analysis
-	url = git://github.com/HephyAnalysisSW/Analysis
+	url = git@github.com:HephyAnalysisSW/Analysis
+        update = rebase
 [submodule "CMSSW_10_2_18/src/Samples"]
 	path = CMSSW_10_2_18/src/Samples
-	url = git://github.com/HephyAnalysisSW/Samples
+	url = git@github.com:HephyAnalysisSW/Samples
+        update = rebase
